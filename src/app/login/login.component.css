@@ -1,0 +1,24 @@
+/*#section-login{
+    margin-top: 100px;
+    text-align: center;
+    color: #191919;
+}*/
+main{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 500px;
+}
+
+#section-login{
+    height: 100%;
+    width: 400px;
+    border-radius: 10px;
+    border:2px solid black;
+    padding: 10px 20px;
+    margin-top: 30px;
+}
+/*
+#section-login input{
+    width: 100%;
+}*/
